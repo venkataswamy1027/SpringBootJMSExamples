@@ -1,1 +1,3 @@
 # SpringBootJMSExamples
+
+This article is about spring boot and JMS integration. Here we will be using spring boot features to implement asynchronous messaging service. We wil be using activemq as a message broker and look into different support provided by spring boot while integrating JMS with activemq. The application that we will be creating here will be a simple spring jms activemq example with a sample JMS producer and consumer.
